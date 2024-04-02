@@ -14,7 +14,7 @@ Here are some ideas to get you started:
 -->
 
 ## 👋 Hi there~! 
-![](https://komarev.com/ghpvc/?username=) <br>
+![](https://komarev.com/ghpvc/?username=linglong67) <br>
 ![Linglong's GitHub stats](https://github-readme-stats.vercel.app/api?username=linglong67&show_icons=true&theme=buefy)
 
 ## 💻 Tech Stack
