@@ -12,9 +12,10 @@ Here are some ideas to get you started:
 - 😄 Pronouns: ...
 - ⚡ Fun fact: ...
 -->
+![header](https://capsule-render.vercel.app/api?type=waving&height=230&color=timeGradient&text=Welcome%20to%20Linglong's%20GitHub%20👋&animation=twinkling&fontSize=35&fontAlignY=35&fontAlign=65)
 
-## 👋 Hi there~! 
-![](https://komarev.com/ghpvc/?username=linglong67) <br>
+##
+[![Hits](https://hits.seeyoufarm.com/api/count/incr/badge.svg?url=https%3A%2F%2Fgithub.com%2Fgjbae1212%2Fhit-counter&count_bg=%23C7B5FF&title_bg=%237563FF&icon=github.svg&icon_color=%23F7F7F7&title=hits&edge_flat=false)](https://hits.seeyoufarm.com) <br>
 ![Linglong's GitHub stats](https://github-readme-stats.vercel.app/api?username=linglong67&show_icons=true&theme=buefy)
 
 ## 💻 Tech Stack
